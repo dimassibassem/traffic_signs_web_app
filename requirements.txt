@@ -4,3 +4,5 @@ keras
 flask
 Werkzeug
 gunicorn
+PIL
+os
