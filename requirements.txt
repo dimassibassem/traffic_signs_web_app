@@ -1,7 +1,7 @@
 numpy
 Pillow
-keras==2.2.0
+keras
 flask
-tensorflow==2.2.0
+tensorflow==2.5.0
 Werkzeug
 gunicorn
