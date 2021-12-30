@@ -4,4 +4,3 @@ keras
 flask
 Werkzeug
 gunicorn
-os
