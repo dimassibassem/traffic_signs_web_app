@@ -7,6 +7,7 @@
 ## Usage:-
 
 - Clone my repository.
+- Download [database](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) and add it to the folder 
 - Open CMD in working directory.
 - Run `Traffic_app.py`.
 - Go to the `http://127.0.0.1:5000` and test it. It is a local Flask App.
